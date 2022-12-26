@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dijkstra_Algo/static/css/main.3a43cc48.css",
+    "main.js": "/Dijkstra_Algo/static/js/main.b3f2db77.js",
+    "index.html": "/Dijkstra_Algo/index.html",
+    "main.3a43cc48.css.map": "/Dijkstra_Algo/static/css/main.3a43cc48.css.map",
+    "main.b3f2db77.js.map": "/Dijkstra_Algo/static/js/main.b3f2db77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a43cc48.css",
+    "static/js/main.b3f2db77.js"
+  ]
+}
